@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Button" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAJAAAAAAAABAAAgAAAAACAAAAQBAEAAAAAAEAAgA=</HashCode>
+      <FileName>src\button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MgAAEgDgEAAAAAAAAIAAAAAAQLAAACAQAAJgAwCQAgA=</HashCode>
+      <FileName>src\entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File" Collapsed="true">
+    <Position X="10.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAABAAAAAAAEAAAGAAAgAAAAoAAAAA=</HashCode>
+      <FileName>src\file.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost" Collapsed="true">
+    <Position X="7.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABiAEAIBACQAChCAAAAGFAAgAGAAAASECGAEiEAYAgA=</HashCode>
+      <FileName>src\ghost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBAEAABAIAFJIAAAEAAAAAIEBAAIETACCAAEAQgAEgQ=</HashCode>
+      <FileName>src\menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="7.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AbFQQIAAAIAAADigFIoICCEBACMAUACAJCAAJRA0AvE=</HashCode>
+      <FileName>src\player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Points" Collapsed="true">
+    <Position X="4.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACFACAAAAAgAAAAAAAgAgAQRAASAAAAAAAAAAREgA=</HashCode>
+      <FileName>src\points.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTexture" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgCAACAABABAAAAAAAAAAAAAQAAAAAAQAAAQAAY=</HashCode>
+      <FileName>src\texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTimer" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAEAAAAAgAhAAAAQAgQAAoAA=</HashCode>
+      <FileName>src\timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall" Collapsed="true">
+    <Position X="4.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEBgAAAAAAAAIAACAABCACQQAAAQAgIAAAEAQAgA=</HashCode>
+      <FileName>src\wall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppInit" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAA0AUACECAAAwGAmQAgIAAAAAAAIIAnABACAQA=</HashCode>
+      <FileName>src\init.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

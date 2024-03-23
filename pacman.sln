@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pacman", "pacman\pacman.vcxproj", "{5094821E-0A00-4859-9DE7-CCA14F4E8555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Debug|x64.ActiveCfg = Debug|x64
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Debug|x64.Build.0 = Debug|x64
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Debug|x86.ActiveCfg = Debug|Win32
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Debug|x86.Build.0 = Debug|Win32
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Release|x64.ActiveCfg = Release|x64
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Release|x64.Build.0 = Release|x64
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Release|x86.ActiveCfg = Release|Win32
+		{5094821E-0A00-4859-9DE7-CCA14F4E8555}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E18D86C-76A6-4099-942C-21189B86AED9}
+	EndGlobalSection
+EndGlobal
